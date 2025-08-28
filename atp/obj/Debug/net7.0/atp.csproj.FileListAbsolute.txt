@@ -1,0 +1,15 @@
+C:\Users\1553419\Desktop\atp\bin\Debug\net7.0\atp.exe
+C:\Users\1553419\Desktop\atp\bin\Debug\net7.0\atp.deps.json
+C:\Users\1553419\Desktop\atp\bin\Debug\net7.0\atp.runtimeconfig.json
+C:\Users\1553419\Desktop\atp\bin\Debug\net7.0\atp.dll
+C:\Users\1553419\Desktop\atp\bin\Debug\net7.0\atp.pdb
+C:\Users\1553419\Desktop\atp\obj\Debug\net7.0\atp.csproj.AssemblyReference.cache
+C:\Users\1553419\Desktop\atp\obj\Debug\net7.0\atp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1553419\Desktop\atp\obj\Debug\net7.0\atp.AssemblyInfoInputs.cache
+C:\Users\1553419\Desktop\atp\obj\Debug\net7.0\atp.AssemblyInfo.cs
+C:\Users\1553419\Desktop\atp\obj\Debug\net7.0\atp.csproj.CoreCompileInputs.cache
+C:\Users\1553419\Desktop\atp\obj\Debug\net7.0\atp.dll
+C:\Users\1553419\Desktop\atp\obj\Debug\net7.0\refint\atp.dll
+C:\Users\1553419\Desktop\atp\obj\Debug\net7.0\atp.pdb
+C:\Users\1553419\Desktop\atp\obj\Debug\net7.0\atp.genruntimeconfig.cache
+C:\Users\1553419\Desktop\atp\obj\Debug\net7.0\ref\atp.dll
