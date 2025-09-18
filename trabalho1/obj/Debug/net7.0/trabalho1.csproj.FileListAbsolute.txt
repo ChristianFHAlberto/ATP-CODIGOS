@@ -1,0 +1,15 @@
+C:\Users\1553419\Desktop\trabalho1\bin\Debug\net7.0\trabalho1.exe
+C:\Users\1553419\Desktop\trabalho1\bin\Debug\net7.0\trabalho1.deps.json
+C:\Users\1553419\Desktop\trabalho1\bin\Debug\net7.0\trabalho1.runtimeconfig.json
+C:\Users\1553419\Desktop\trabalho1\bin\Debug\net7.0\trabalho1.dll
+C:\Users\1553419\Desktop\trabalho1\bin\Debug\net7.0\trabalho1.pdb
+C:\Users\1553419\Desktop\trabalho1\obj\Debug\net7.0\trabalho1.csproj.AssemblyReference.cache
+C:\Users\1553419\Desktop\trabalho1\obj\Debug\net7.0\trabalho1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1553419\Desktop\trabalho1\obj\Debug\net7.0\trabalho1.AssemblyInfoInputs.cache
+C:\Users\1553419\Desktop\trabalho1\obj\Debug\net7.0\trabalho1.AssemblyInfo.cs
+C:\Users\1553419\Desktop\trabalho1\obj\Debug\net7.0\trabalho1.csproj.CoreCompileInputs.cache
+C:\Users\1553419\Desktop\trabalho1\obj\Debug\net7.0\trabalho1.dll
+C:\Users\1553419\Desktop\trabalho1\obj\Debug\net7.0\refint\trabalho1.dll
+C:\Users\1553419\Desktop\trabalho1\obj\Debug\net7.0\trabalho1.pdb
+C:\Users\1553419\Desktop\trabalho1\obj\Debug\net7.0\trabalho1.genruntimeconfig.cache
+C:\Users\1553419\Desktop\trabalho1\obj\Debug\net7.0\ref\trabalho1.dll
